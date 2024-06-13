@@ -20,4 +20,16 @@ Author , Date , Description
 git log
 description
 git log --oneline
+bypass the stating area
+git commit -a -m "This is a discription"
+this modification is already done
+branching
+list out all of the branches
+git branch -a
+create a branch
+git branch [branch-name]
+switch to a differant branch
+git switch [branch- name]
+
+
 
