@@ -54,3 +54,4 @@ clear the terminal
 clear
 change directory 
 cd [directory path]
+modified

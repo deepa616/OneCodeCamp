@@ -12,4 +12,12 @@ add files to the staging area
 git add . 
 create a commit
 git commit -m "This is the description."
+M - Modified
+U - Untracked
+A - Added
+show the history
+Author , Date , Description
+git log
+description
+git log --oneline
 
