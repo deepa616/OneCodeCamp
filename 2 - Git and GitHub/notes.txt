@@ -1,0 +1,6 @@
+check for git version
+git --version
+configer git
+git config --global user.name "Deepa"
+ git config --global user.email "deepathakkar2007@gmail.com"
+ 

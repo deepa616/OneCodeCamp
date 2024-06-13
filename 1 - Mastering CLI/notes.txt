@@ -1,0 +1,56 @@
+Make a directory/folder
+mkdir [directory-name]
+remove a directory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rmkdir [remove directory]
+
+
+
+
+
+
+
+
+
+
+
+present remove directory
+pwd
+chan
+
+
+
+
+
+
+list command
+ls
+change directory
+
+
+
+clear the terminal
+clear
+change directory 
+cd [directory path]
