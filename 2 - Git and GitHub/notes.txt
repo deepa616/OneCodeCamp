@@ -3,4 +3,13 @@ git --version
 configer git
 git config --global user.name "Deepa"
  git config --global user.email "deepathakkar2007@gmail.com"
- 
+initialize an empty repository
+git init
+
+ check for the status of files
+ git status
+add files to the staging area
+git add . 
+create a commit
+git commit -m "This is the description."
+
