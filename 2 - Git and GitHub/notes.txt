@@ -1,4 +1,7 @@
-check for git version
+<label for="message-id">Message:</label>
+        <div>
+            <textarea name="message" id="message-id" cols="30" rows="10" placeholder="This is a message..." required></textarea>
+        </div>check for git version
 git --version
 configer git
 git config --global user.name "Deepa"
@@ -30,6 +33,14 @@ create a branch
 git branch [branch-name]
 switch to a differant branch
 git switch [branch- name]
+branching
+list out all of branchies
+git branch -A
+create a branch
+git branch [branch-name]
+switch to differant branch
+git switch [branch-name]
+
 
 
 
